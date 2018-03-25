@@ -29,7 +29,7 @@ installed_packages_list = sorted(["%s==%s" % (i.key, i.version)
      for i in installed_packages])
 print(installed_packages_list)
 '''
-os.chdir('c:\\data\python\laser')
+os.chdir('C:\Users\soren_l\Documents\Python Scripts\TestProject\TestGitHub')
 plt.style.use("fivethirtyeight")
 
 
